@@ -114,6 +114,17 @@ My portfolio rebuilt as a React, Vite, and TypeScript site on plain CSS design t
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cooluj/cooluj/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/cooluj/cooluj/output/github-snake.svg" width="100%" alt="Contribution snake animation" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
 [ujjawal-agrawal@outlook.com](mailto:ujjawal-agrawal@outlook.com) · [LinkedIn](https://www.linkedin.com/in/ujjawal-agrawal/) · [Portfolio](https://ujjawal-agrawal-portfolio.figma.site/) · [eventully.org](https://eventully.org)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:6d28d9,100:4f46e5&height=120&section=footer" width="100%" alt="" />
